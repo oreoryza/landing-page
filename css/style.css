@@ -118,7 +118,7 @@ header img {
 }
 
 .what-img {
-  background: url(/assets/images/laptop.png);
+  background: url("/assets/images/laptop.png");
   background-repeat: no-repeat;
   background-size: cover;
   height: 100%;
